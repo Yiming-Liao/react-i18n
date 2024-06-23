@@ -1,0 +1,32 @@
+{
+    "Home": {
+        "head": {
+            "title": "我是首頁",
+            "description": "首頁 敘述",
+            "ogTitle": "首頁 OG 標題",
+            "ogDescription": "首頁 OG 敘述",
+            "ogSiteName": "您的網站名稱",
+            "ogImage": "https://example.com/images/home.jpg",
+            "ogImageAlt": "首頁圖片替代文字",
+            "twitterTitle": "首頁 Twitter 標題",
+            "twitterDescription": "首頁 Twitter 敘述",
+            "twitterImage": "https://example.com/images/twitter/home.jpg"
+        },
+        "title": "你好，世界！"
+    },
+    "About": {
+        "head": {
+            "title": "我是關於頁",
+            "description": "關於頁 敘述",
+            "ogTitle": "關於頁 OG 標題",
+            "ogDescription": "關於頁 OG 敘述",
+            "ogSiteName": "您的網站名稱",
+            "ogImage": "https://example.com/images/about.jpg",
+            "ogImageAlt": "關於頁圖片替代文字",
+            "twitterTitle": "關於頁 Twitter 標題",
+            "twitterDescription": "關於頁 Twitter 敘述",
+            "twitterImage": "https://example.com/images/twitter/about.jpg"
+        },
+        "p1": "我是段落 1"
+    }
+}

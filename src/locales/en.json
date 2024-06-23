@@ -1,0 +1,32 @@
+{
+    "Home": {
+        "head": {
+            "title": "I am Home page",
+            "description": "Home Page Description",
+            "ogTitle": "Home Page OG Title",
+            "ogDescription": "Home Page OG Description",
+            "ogSiteName": "Your Site Name",
+            "ogImage": "https://example.com/images/home.jpg",
+            "ogImageAlt": "Home Page Image Alt Text",
+            "twitterTitle": "Home Page Twitter Title",
+            "twitterDescription": "Home Page Twitter Description",
+            "twitterImage": "https://example.com/images/twitter/home.jpg"
+        },
+        "title": "Hello World!"
+    },
+    "About": {
+        "head": {
+            "title": "I am About page",
+            "description": "About Page Description",
+            "ogTitle": "About Page OG Title",
+            "ogDescription": "About Page OG Description",
+            "ogSiteName": "Your Site Name",
+            "ogImage": "https://example.com/images/about.jpg",
+            "ogImageAlt": "About Page Image Alt Text",
+            "twitterTitle": "About Page Twitter Title",
+            "twitterDescription": "About Page Twitter Description",
+            "twitterImage": "https://example.com/images/twitter/about.jpg"
+        },
+        "p1": "I am paragraph 1"
+    }
+}
